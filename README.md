@@ -1,3 +1,7 @@
+### Check out deployed site here
+
+https://project3-front-end-api.vercel.app/
+
 ### Name
 
 Thomas Ogawa
