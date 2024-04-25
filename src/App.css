@@ -1,0 +1,36 @@
+
+h1{
+  font-size: 8rem;
+  color: #333;
+  margin-bottom: 0%;
+}
+
+.App{
+  text-align: center;
+  color: #333;
+  background-color: cadetblue;
+  font-size: 0;
+}
+
+.personimg{
+  width: 300px;
+  height: 300px;
+}
+
+.Intro_Paragraph{
+  font-size: 2rem;
+  color: #333;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.Person_Name{
+  font-size: 2rem;
+  color: #333;
+}
+
+.Refresh_Button{
+  position: Absolute;
+  right: 50px;
+  bottom: 50px;
+}

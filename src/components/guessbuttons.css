@@ -1,0 +1,14 @@
+.guessbutton{
+    text-align: center;
+    display: inline-block;
+    font-size: 2rem;
+    width: 200px;
+    height: 100px;
+    color: #333;
+    background-color: #f4f4f4;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
